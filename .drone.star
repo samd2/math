@@ -56,4 +56,4 @@ def main(ctx):
   return result
 
 # from https://github.com/boostorg/boost-ci
-load("@boost_ci//ci/drone/:functions.4.star", "linux_cxx","windows_cxx","osx_cxx","freebsd_cxx")
+load("@boost_ci//ci/drone/:functions.5.star", "linux_cxx","windows_cxx","osx_cxx","freebsd_cxx")
